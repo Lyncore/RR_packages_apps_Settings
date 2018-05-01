@@ -46,6 +46,10 @@
   <string name="device_category_jiayu_title">Jiayu</string>
   <string name="device_category_nextbit_title">Nextbit</string>
    
+  <string name="device_markw" translatable="false">Xiaomi Redmi 4 Pro</string>
+  <string name="device_markw_codename" translatable="false">markw</string>
+  <string name="device_markw_maintainer" translatable="false">Lyncore</string>
+  
   <string name="device_a610" translatable="false">ZTE BLADE A610</string>
   <string name="device_a610_codename" translatable="false">a610</string>
   <string name="device_a610_maintainer" translatable="false">Roman Yukovsky (mosya234)</string>

@@ -1138,6 +1138,12 @@
             app:codename="@string/device_tissot_codename"
             app:maintainer="@string/device_tissot_maintainer"
             app:type="phone" />
+        <com.android.settings.rr.Preferences.DevicePreference
+            android:id="@+id/device_markw"
+            android:title="@string/device_markw"
+            app:codename="@string/device_markw_codename"
+            app:maintainer="@string/device_markw_maintainer"
+            app:type="phone" />
     </PreferenceCategory>
 
     <PreferenceCategory
