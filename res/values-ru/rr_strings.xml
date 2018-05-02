@@ -1658,7 +1658,7 @@
   <string name="position_centered_title">По центру</string>
   <string name="normal_title">Стандартный</string>
   <string name="hidden_title">Скрытая</string>
-  <string name="status_bar_clock_date_settings_title">Часы &amp; дата</string>
+  <string name="status_bar_clock_date_settings_title">Часы и дата</string>
   <string name="status_bar_clock_date_settings_summary">Выберите способ отображения времени и даты в строке состояния</string>
   <string name="list_preference_default_summary">%s</string>
   <string name="clock_date_cat_date_title">Дата</string>

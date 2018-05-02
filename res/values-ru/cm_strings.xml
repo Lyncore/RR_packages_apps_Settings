@@ -125,7 +125,7 @@
   <string name="increasing_ring_ramp_up_time_title">Время увеличения</string>
 	
   <!-- Volume link notification -->
-  <string name="volume_link_notification_title">Связать громкость рингтона &amp; уведомлений</string>
+  <string name="volume_link_notification_title">Связать громкость рингтона и уведомлений</string>
 	
   <!-- Memory -->
   <string name="memory_startup_apps_title">Запущено при включении устройства</string>
@@ -335,7 +335,7 @@
 	
   <string name="ok">OK</string>
 	
-  <string name="security_privacy_settings_title">Блокировка &amp; безопасность</string>
+  <string name="security_privacy_settings_title">Блокировка и безопасность</string>
 
   <!-- Volume settings - Volume adjustment sound -->
   <string name="volume_adjust_sounds_title">Звуки регулировки громкости</string>
